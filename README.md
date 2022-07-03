@@ -97,7 +97,7 @@ If you click Help :
 
 ![image](https://user-images.githubusercontent.com/99196876/177046995-caabc4e5-230a-47a1-94f6-11378fbd55ee.png)
 
-All the passwords , phone numbers, usernames and barcodes has validations.
+All the passwords , phone numbers, usernames and barcodes have validations.
 
 Thank you :) .
 
