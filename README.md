@@ -1,2 +1,2 @@
-# ecosmetics
+# Ecosmetics
 Store Managment System using JavaFX
