@@ -1,0 +1,36 @@
+.root{
+  -fx-background-color: transparent ;
+}
+
+.table-view{
+  -fx-background-color : transparent;
+}
+
+.table-view:focused{
+  -fx-bacground-color:transparent ;
+}
+
+.table-view .column-header-background{
+    -fx-background-color: linear-gradient(#ffccdd, #ff3377);
+}
+
+.table-view .column-header-background .label{
+    -fx-text-fill: #ff6666;
+    
+}
+
+.table-row-cell: hover {
+    -fx-text-background-color: red;
+}
+
+.table-row-cell: odd{
+    -fx-background-color: #ffb3b3;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+.table-row-cell: even{
+    -fx-background-color: #ffe6e6;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+
